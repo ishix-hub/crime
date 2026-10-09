@@ -12,7 +12,7 @@ import streamlit as st
 from scipy.stats import fisher_exact
 
 st.set_page_config(page_title="Registered Crime vs Reality", layout="wide")
-DATA = Path(__file__).parent / "data"
+DATA = Path(__file__).parent
 BLUE, ORANGE, GREY = "#2E5E8C", "#D9822B", "#8A8A8A"
 
 
