@@ -1,0 +1,31 @@
+form,q1_report_likelihood,q2_main_barrier,q3_trust_police,q4_heard_helpline_181,q5_heard_sc_st_act,q6_makes_reporting_easier,q7_gender,q1_num,q3_num,q1_likely
+A,Unlikely,Fear of retaliation,A little,Yes,Not sure,Quick action and protection after a complaint,Woman,2.0,2.0,False
+A,Not sure,Family pressure or what will people say,Somewhat,Yes,No,More awareness of rights,Woman,3.0,3.0,False
+A,Unlikely,Family pressure or what will people say,A little,No,No,Free legal help,Woman,2.0,2.0,False
+A,Likely,Fear of retaliation,Mostly,Yes,Yes,Quick action and protection after a complaint,Man,4.0,4.0,True
+A,Very unlikely,Family pressure or what will people say,Not at all,Yes,Not sure,Women police officers and help desks,Woman,1.0,1.0,False
+A,Not sure,Distrust of the police,A little,No,No,Anonymous or online reporting,Prefer not to say,3.0,2.0,False
+A,Unlikely,Cost time or hassle of the process,Somewhat,Yes,No,Free legal help,Man,2.0,3.0,False
+A,Likely,Fear of retaliation,Mostly,Yes,Yes,Quick action and protection after a complaint,Woman,4.0,4.0,True
+A,Very unlikely,Family pressure or what will people say,Not at all,No,Not sure,Women police officers and help desks,Woman,1.0,1.0,False
+A,Not sure,Fear of retaliation,Somewhat,Yes,No,Anonymous or online reporting,Woman,3.0,3.0,False
+A,Unlikely,Distrust of the police,A little,Yes,Not sure,Quick action and protection after a complaint,Man,2.0,2.0,False
+A,Likely,Not knowing the law or where to go,Mostly,Yes,Yes,More awareness of rights,Woman,4.0,4.0,True
+A,Not sure,Family pressure or what will people say,Somewhat,No,No,Women police officers and help desks,Woman,3.0,3.0,False
+A,Unlikely,Fear of retaliation,A little,Yes,Not sure,Free legal help,Woman,2.0,2.0,False
+A,Very likely,Distrust of the police,Mostly,Yes,Yes,Quick action and protection after a complaint,Man,5.0,4.0,True
+B,Likely,Fear of retaliation,Somewhat,Yes,No,Quick action and protection after a complaint,Woman,4.0,3.0,True
+B,Very likely,Cost time or hassle of the process,Mostly,Yes,Not sure,Quick action and protection after a complaint,Man,5.0,4.0,True
+B,Likely,Distrust of the police,Somewhat,No,No,Anonymous or online reporting,Woman,4.0,3.0,True
+B,Very likely,Not knowing the law or where to go,Mostly,Yes,Yes,More awareness of rights,Woman,5.0,4.0,True
+B,Not sure,Fear of retaliation,A little,Yes,No,Women police officers and help desks,Prefer not to say,3.0,2.0,False
+B,Likely,Cost time or hassle of the process,Somewhat,No,Not sure,Free legal help,Man,4.0,3.0,True
+B,Very likely,Distrust of the police,Mostly,Yes,Yes,Quick action and protection after a complaint,Woman,5.0,4.0,True
+B,Likely,Family pressure or what will people say,Somewhat,Yes,No,More awareness of rights,Woman,4.0,3.0,True
+B,Not sure,Fear of retaliation,A little,No,No,Anonymous or online reporting,Man,3.0,2.0,False
+B,Very likely,Cost time or hassle of the process,Mostly,Yes,Not sure,Quick action and protection after a complaint,Woman,5.0,4.0,True
+B,Likely,Not knowing the law or where to go,Somewhat,Yes,Yes,More awareness of rights,Woman,4.0,3.0,True
+B,Very likely,Distrust of the police,Mostly,No,No,Quick action and protection after a complaint,Man,5.0,4.0,True
+B,Likely,Fear of retaliation,Somewhat,Yes,Not sure,Women police officers and help desks,Woman,4.0,3.0,True
+B,Not sure,Family pressure or what will people say,A little,Yes,No,Free legal help,Woman,3.0,2.0,False
+B,Very likely,Cost time or hassle of the process,Mostly,Yes,Yes,Quick action and protection after a complaint,Man,5.0,4.0,True
